@@ -2,9 +2,13 @@
   "jobs": [
     {
       "id": 1,
-      "title": "E-Zest is hiring",
-      "description": "A pair of sunglasses can protect your eyes from being hurt. For car driving, vacation travel, outdoor activities, social gatherings,",
-      "position": 19,
+      "title": "Altair Engineering is hiring",
+      "description": "Location: Pune
+      Qualification: Bachelor's Degree in CS or Any Related Course
+      Experience: Fresher
+      Batch: 2020/2021/2022/ 2023
+      Salary: 11 LPA (Expected)",
+      position": "Software QA Engineer",
       "site_url": "https://i.ebayimg.com/thumbs/images/g/M44AAOSwthxjVGaT/s-l300.webp"
     }
   ]
